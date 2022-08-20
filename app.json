@@ -1,6 +1,6 @@
 {
   "name": "GreyMatter-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @GreyMatter_bots",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Jack_Network",
   "keywords": [
       "telegram",
       "stream",
@@ -12,7 +12,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/GreyMatter658/FileStreamBot/tree/main",
+  "repository": "https://github.com/jackthegreathacker/FileStreamBot/tree/main",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
   "website": "avipatilweb.ml",
